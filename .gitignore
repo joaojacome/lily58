@@ -1,0 +1,3 @@
+qmk_firmware
+keymap/keymap.c
+build/

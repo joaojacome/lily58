@@ -1,6 +1,6 @@
 {
     "keyboard": "splitkb/aurora/lily58/rev1",
-    "keymap": "default",
+    "keymap": "joaojacome",
     "version": 1,
     "layout": "LAYOUT",
     "layers": [
@@ -38,10 +38,10 @@
         "features": {
             "oled": true,
             "rgb_matrix": true,
-            "rgblight": false
+            "rgblight": true
         },
         "encoder": {
-            "enabled": true
+            "enabled": false
         },
         "rgblight": {
             "hue_steps": 8,
